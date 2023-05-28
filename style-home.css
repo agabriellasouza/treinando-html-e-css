@@ -1,0 +1,76 @@
+body {
+	background: #1D241B;
+	
+}
+
+header {
+    
+}
+
+#banner {
+	width: 100%;
+}
+
+.principal {
+	background: #e6dcdf;
+	padding: 30px;
+}
+
+.titulo-principal {
+	color: #C9A053;
+	font-size: 20px;
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	text-size: 18px;
+}
+
+#lema {
+	font-size: 20px
+}
+
+strong {
+	color: #f5a2a2;
+}
+
+.itens {
+	font-style: italic;
+}
+
+.quemsomos {
+	background: #CCCCCC;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 35%;
+	margin-right: 10%;
+}
+
+.imagemquemsomos {
+	width: 50%;
+}
+
+footer {
+	text-align: center;
+	background: url("rodapé.jpg");
+	padding: 40px 0;
+	width: 100%;
+}
+
+.rodape {
+	width: 10%;
+}
+
+.copy {
+	color: #8BA186;
+	font-size: 15px;
+	margin: 20px 0 0;
+}
